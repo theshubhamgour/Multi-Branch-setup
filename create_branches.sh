@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-BRANCH_COUNT=5
+BRANCH_COUNT=20
 BASE_APP_VERSION="3.15.100"
 
 # Ensure the repository is clean
