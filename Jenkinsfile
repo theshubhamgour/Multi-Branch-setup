@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         TAG_NAME = 'theshubhamgour/made-changes'
-        APP_VERSION = 'pre-release-v3.15.105'
+        APP_VERSION = 'pre-release-v3.15.106'
         DOCKER_REPO = "${TAG_NAME}"
         DOCKER_TAG = "${APP_VERSION}"
     }
